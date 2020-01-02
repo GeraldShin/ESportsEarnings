@@ -1,6 +1,7 @@
 # ESportsEarnings
 
 #### Purpose of this personal project is to learn how to call an API, take the data presented and visualize it, and then perhaps practice a machine learning application.
+#### Please see .html file to view completed output.
 
 #### Skills:
 1. Command Line Git
